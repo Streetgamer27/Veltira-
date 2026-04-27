@@ -1,0 +1,9 @@
+# Veltira
+[Brief description of what it does]
+
+## Quick Start
+```bash
+git clone https://github.com/Streetgamer27/Veltira-.git
+cd Veltira-
+npm install  # or pip install -r requirements.txt, etc.
+npm start    # or python main.py, etc.
